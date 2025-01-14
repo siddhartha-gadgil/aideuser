@@ -5,7 +5,7 @@
    "type": "git",
    "subDir": null,
    "scope": "siddhartha-gadgil",
-   "rev": "83de74ea1dee3812fb8cb56136a42f4bbe6ad06e",
+   "rev": "3067533c1a0d4e88b79ae52d0439afc888000d9a",
    "name": "leanaide",
    "manifestFile": "lake-manifest.json",
    "inputRev": "v4.15.0",
